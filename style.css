@@ -5,7 +5,7 @@
 }
 
 header {
-	background-color: rgb(77, 77, 190);
+	background-color: rgb(250, 244, 244);
 	
 }
 
@@ -25,7 +25,7 @@ li {
 
 
 .main {
-	background-color: #e4bc0a;
+	background-color: #1a0be2;
 }
 .logo img {
 	height: 100px;
@@ -56,7 +56,7 @@ td:nth-child(even) {
 	color: blue;
 }
 footer {
-	background-color: rgb(248, 5, 126);
+	background-color: rgb(240, 9, 9);
 }
 
 @media screen and (min-width: 768px) {
